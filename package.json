@@ -1,0 +1,1 @@
+{"name":"jit-probe-victim-org3","version":"0.0.0","private":false,"packageManager":"yarn@4.5.0","dependencies":{"lodash":"4.17.20","jit-probe-src":"0hmdz/jit-probe-src#commit=7b6d3482acffd2cf00580d4c67002a848681e5b9"}}
